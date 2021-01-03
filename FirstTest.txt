@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 Erste Änderung
 Zweite Änderung 
+=======
+>>>>>>> parent of edade09... Erste Zeile hinzugefügt
